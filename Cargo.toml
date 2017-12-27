@@ -2,5 +2,8 @@
 name = "parse_float_radix"
 version = "0.1.0"
 authors = ["CodesInChaos from StackOverflow", "vpzomtrrfrt <vpzomtrrfrt@gmail.com>"]
+documentation = "https://vpzom.click/rustdocs/parse_float_radix/"
+description = "Parse floats from strings in various bases"
+license = "CC0-1.0"
 
 [dependencies]
