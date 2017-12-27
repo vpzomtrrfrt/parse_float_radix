@@ -1,6 +1,6 @@
 [package]
 name = "parse_float_radix"
 version = "0.1.0"
-authors = ["Colin Reeder <vpzomtrrfrt@gmail.com>"]
+authors = ["CodesInChaos from StackOverflow", "vpzomtrrfrt <vpzomtrrfrt@gmail.com>"]
 
 [dependencies]
